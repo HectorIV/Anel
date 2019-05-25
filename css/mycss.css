@@ -22,16 +22,7 @@
   }
 }
 
-@media screen and (max-width: 700px) {
-  .ic{
-    width: 50px;
-    height: 50px;
-  }
 
-  .fondo{
-    margin-top: 25px;
-  }
-}
 
 /* Animation */
 
