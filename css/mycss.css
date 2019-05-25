@@ -11,6 +11,18 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+  .ic{
+    width: 100px;
+    height: 100px;
+  }
+
+  .fondo{
+    margin-top: 50px;
+  }
+}
+
+
 
 /* Animation */
 
